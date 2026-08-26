@@ -1,14 +1,14 @@
-# Privacy Policy — Cronos Explorer Extension
+# Privacy Policy — Cronos Explorer Plus
 
 **Last updated: August 26, 2026**
 
-Cronos Explorer Extension is an independent browser extension that adds personalization and annotation features to the Cronos Explorer websites.
+Cronos Explorer Plus is an independent browser extension that adds personalization, annotation, search, transaction display, and visual customization features to the Cronos Explorer websites.
 
-The extension is designed to operate locally and does not transmit your locally stored extension data to the developer or to an extension-operated server.
+Cronos Explorer Plus is designed to operate locally in the user's browser. It does not transmit user-created extension data to the developer or to an extension-operated server.
 
 ## Information processed by the extension
 
-To provide its functionality, Cronos Explorer Extension may process information displayed on supported Cronos Explorer pages, including:
+To provide its functionality, Cronos Explorer Plus may process information displayed on supported Cronos Explorer pages, including:
 
 - Blockchain wallet addresses
 - Transaction information
@@ -16,7 +16,7 @@ To provide its functionality, Cronos Explorer Extension may process information 
 - Page URLs and other visible Explorer page content
 - Search input entered into the Explorer interface
 
-The extension may also process information that you choose to add yourself, including:
+The extension may also process information that users choose to add themselves, including:
 
 - Private wallet name tags
 - Secondary identity names and associated profile links
@@ -32,11 +32,11 @@ This information is used only to provide the extension's functionality, includin
 
 User-created tags, identities, Method ID labels, preferences, and related extension data are stored locally using Chrome extension storage.
 
-The extension does not operate a backend service or developer-controlled database for this information.
+Cronos Explorer Plus does not operate a backend service or developer-controlled database for storing this information.
 
 ## Data transmission and sharing
 
-Cronos Explorer Extension does not transmit your locally stored extension databases to the developer or to an extension-operated server.
+Cronos Explorer Plus does not transmit user-created extension data to the developer or to an extension-operated server.
 
 The extension does not use analytics, telemetry, advertising, tracking, or profiling services.
 
@@ -44,21 +44,21 @@ The developer does not sell user data or share user data for advertising purpose
 
 ## External links
 
-The extension may display links to external websites, including Cronos Explorer and X.com. Opening these links is a user-initiated action and is subject to the privacy practices of the destination website.
+The extension may provide links to external websites, including Cronos Explorer and X.com. Opening these links is a user-initiated action and is subject to the privacy practices of the destination website.
 
 ## Data retention and deletion
 
-Extension data stored in Chrome remains available until it is removed by the user, cleared from the extension, or removed as part of uninstalling or clearing the extension's local data.
+Extension data stored in Chrome remains available until it is removed by the user, cleared from the extension, or removed by clearing the extension's local data or uninstalling the extension.
 
-Where supported by the extension, users may also export their locally stored data.
+Where supported, users may also import and export their locally stored extension data.
 
 ## Chrome Web Store Limited Use
 
-Cronos Explorer Extension uses information only as necessary to provide its disclosed functionality and in accordance with the Chrome Web Store User Data Policy and Limited Use requirements.
+Cronos Explorer Plus uses information only as necessary to provide its disclosed functionality and in accordance with the Chrome Web Store User Data Policy and Limited Use requirements.
 
 ## Independent project
 
-Cronos Explorer Extension is an independent project and is not affiliated with, sponsored by, or endorsed by Cronos or the operators of Cronos Explorer.
+Cronos Explorer Plus is an independent project and is not affiliated with, sponsored by, or endorsed by Cronos or the operators of Cronos Explorer.
 
 ## Contact
 
