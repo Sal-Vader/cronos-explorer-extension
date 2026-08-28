@@ -1,14 +1,14 @@
 # Privacy Policy — Cronos Explorer Plus
 
-**Last updated: August 26, 2026**
+**Last updated: August 28, 2026**
 
 Cronos Explorer Plus is an independent browser extension that adds personalization, annotation, search, transaction display, and visual customization features to the Cronos Explorer websites.
 
-Cronos Explorer Plus is designed to operate locally in the user's browser. It does not transmit user-created extension data to the developer or to an extension-operated server.
+Cronos Explorer Plus is designed to operate locally in the user’s browser. It does not transmit user-created extension data to the developer or to an extension-operated server.
 
 ## Information processed by the extension
 
-To provide its functionality, Cronos Explorer Plus may process information displayed on supported Cronos Explorer pages, including:
+To provide its functionality, Cronos Explorer Plus may process information displayed on, or retrieved from, supported Cronos Explorer pages and services, including:
 
 - Blockchain wallet addresses
 - Transaction information
@@ -26,7 +26,7 @@ The extension may also process information that users choose to add themselves, 
 
 ## How information is used
 
-This information is used only to provide the extension's functionality, including wallet annotations, identity information, Method ID labels, private-tag search, transaction display and filtering tools, and visual customization of the Cronos Explorer interface.
+This information is used only to provide the extension’s functionality, including wallet annotations, identity information, Method ID labels, private-tag search, transaction display and filtering tools, and visual customization of the Cronos Explorer interface.
 
 ## Local storage
 
@@ -38,6 +38,8 @@ Cronos Explorer Plus does not operate a backend service or developer-controlled 
 
 Cronos Explorer Plus does not transmit user-created extension data to the developer or to an extension-operated server.
 
+To provide certain features, the extension may request publicly available blockchain and transaction information from Cronos Explorer. These requests are made directly between the user’s browser and Cronos Explorer and do not transmit the user’s private tags, secondary identities, custom Method ID labels, or extension preferences.
+
 The extension does not use analytics, telemetry, advertising, tracking, or profiling services.
 
 The developer does not sell user data or share user data for advertising purposes.
@@ -48,7 +50,7 @@ The extension may provide links to external websites, including Cronos Explorer 
 
 ## Data retention and deletion
 
-Extension data stored in Chrome remains available until it is removed by the user, cleared from the extension, or removed by clearing the extension's local data or uninstalling the extension.
+Extension data stored in Chrome remains available until it is removed by the user, cleared from the extension, or removed by clearing the extension’s local data or uninstalling the extension.
 
 Where supported, users may also import and export their locally stored extension data.
 
